@@ -3,6 +3,10 @@ Here’s a polished **README.md** file for your **LSTM-based Lung Sound Classifi
 
 ---
 
+
+https://github.com/user-attachments/assets/a284ffb8-c21d-4c9d-8ce8-a1a655156fe0
+
+
 # 🫁 Lung Sound Classification using LSTM
 
 This project focuses on classifying lung sound recordings into various respiratory conditions using a **Long Short-Term Memory (LSTM)** deep learning model. The system is designed to assist in **early detection of respiratory diseases** by analyzing lung sound signals collected from digital stethoscopes or publicly available datasets.
